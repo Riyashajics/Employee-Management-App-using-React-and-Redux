@@ -1,0 +1,73 @@
+.add_form{
+    position: relative;
+    height: 42vw;
+    background-color:#fa6b6bc4;
+    
+    text-align: center;
+    width: 100%;
+   
+    justify-content: center;
+    left: 2px;
+    top: 0.5px;
+    
+}
+.inner_form{
+  left:250px;
+  position: relative;
+  bottom:400px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size:22px;
+
+}
+
+
+.add_form > h2{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: left;
+  font-size: 45px;
+  top:30px;
+  position: relative;
+  left:45px;
+  color:#e7e5e5
+  
+}
+.inner_add{
+  height:28vw;
+  background: white;
+  position: relative;
+  top:90px;
+  width:60%;
+  left:350px;
+}
+.inner_add >img{
+  right:365px;
+  position: relative;
+  width:35%;
+  height:28vw;
+}
+
+.inner_form>button{
+  background-color:green;
+
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight:bold;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: 'Times New Roman', Times, serif;
+  right:300px;
+  position: relative;
+  bottom:20px;
+
+
+}
+ ::placeholder {
+  color: red;
+}
+input[type=date]{
+  color:red;
+}

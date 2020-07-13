@@ -1,0 +1,85 @@
+.dcontain{
+   
+    position: relative;
+    height: 100%;
+   
+   
+    color:#eb1313;
+   
+    text-align: center;
+    width: 70%;
+    
+    justify-content: center;
+    left: 140px;
+   
+    top: 0.4px;
+    text-align: left;
+}
+.btn1{
+    background-color:rgb(199, 194, 196);
+  border: 2px solid #5C0632;
+  color: #5C0632;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight:bold;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
+
+  
+
+.Bar{
+  padding-top: 3px;
+
+  padding-left:70px;
+  border-bottom: 2px solid #eb1313;
+  
+ 
+  
+
+   
+  
+}
+.emp{
+  top:40px;
+ left:1050px;
+ position: relative;
+ width:26%;
+
+}
+.pie{
+  padding-top: 50px;
+  padding-bottom: 17px;
+ background: white;
+  background-size: cover;
+  padding-top: 80px;
+  border-bottom: 2px solid #eb1313;
+  
+  
+}
+.Line{
+  padding-top: 50px;
+ 
+  background: white;
+  
+}
+.dcontain >h2{
+  background: white;
+  color:#c4c1c1;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 53px;
+  position: relative;
+  top:1px;
+}
+.Bar>h2{
+  position: absolute;
+  top:21%;
+  right:1051px;
+  font-size:30px;
+  transform: rotate(-90deg);
+  color:#e80707;
+}
